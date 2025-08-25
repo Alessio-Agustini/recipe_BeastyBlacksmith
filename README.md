@@ -1,3 +1,3 @@
 # recipe
 
-Tis is an exercise repository.
+This is an exercise repository.
